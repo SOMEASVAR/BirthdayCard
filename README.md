@@ -1,4 +1,17 @@
-# Birthday-Card
+# Create a Birthday card using HTML and CSS
+# Aim:
+To Create a Birthday card using HTML and CSS
+
+# Algorithm:
+1.Start React project,using "create-react-app projectName".
+
+2.To create the folder,go to the folder using "code .".
+
+3.To start the website using localhost,npm start.
+
+4.Edit the components in the folder,for the project.
+
+5.Edit App.js and enter the HTML code in the return and render.
 ```
 Created by: SOMEASVAR
 Reg.No: 212221230103
@@ -42,3 +55,5 @@ Reg.No: 212221230103
 ```
 https://github.com/SOMEASVAR/BirthdayCard.git
 ```
+# RESULT:
+Therefore we have succesfully created a Birthday card using HTML and CSS.
